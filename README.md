@@ -1,6 +1,6 @@
 # KS UI Component Library
 
-A modern collection of reusable UI components for Angular and React applications.
+A modern, feature-rich UI component library by Kraft Stitch, designed to simplify and accelerate frontend development with a comprehensive collection of reusable, customizable, and developer-friendly components for Angular and React. From buttons, form controls, and date pickers to navigation, layout, and notification systems, KS UI provides the essential building blocks for creating consistent, accessible, and responsive user interfaces. Built to promote reusability, maintainability, and a unified design experience across frameworks, KS UI helps developers build beautiful, scalable applications with less effort and greater flexibility.
 
 ## Installation
 
@@ -34,77 +34,22 @@ KS-UI need this import for working.
 ```
 
 
-## Components
+## 📦 Component Library
 
-### Buttons
+KS UI provides reusable UI components for **Angular and React**, organized into categories to help you find the right building blocks quickly.
 
-- [Button](./components/Buttons/button/readme.md)
-- [Button Group](./components/Buttons/button-group/readme.md)
-- [Chips](./components/Buttons/chips/readme.md)
-- [FAB](./components/Buttons/fab/readme.md)
+| Category | Components |
+|---|---|
+| **Buttons & Actions** | [Button](./components/Buttons/button/readme.md) · [Button Group](./components/Buttons/button-group/readme.md) · [Chips](./components/Buttons/chips/readme.md) · [FAB](./components/Buttons/fab/readme.md) |
+| **Calendars & Time** | [Date Picker](./components/Calendars/datepicker/readme.md) · [Date Range](./components/Calendars/daterange/readme.md) · [Time Picker](./components/Calendars/timepicker/readme.md) |
+| **Dropdowns & Selection** | [Dropdown](./components/Dropdowns/dropdown/readme.md) · [Listbox](./components/Dropdowns/listbox/readme.md) |
+| **Form Inputs** | [Checkbox](./components/Inputs/checkbox/readme.md) · [Colour Picker](./components/Inputs/colour-picker/readme.md) · [Input](./components/Inputs/input/readme.md) · [OTP Input](./components/Inputs/otp-input/readme.md) · [Radio](./components/Inputs/radio/readme.md) · [Rating](./components/Inputs/rating/readme.md) · [Slider](./components/Inputs/slider/readme.md) · [Switch](./components/Inputs/switch/readme.md) · [Textarea](./components/Inputs/textarea/readme.md) · [Theme Switch](./components/Inputs/theme-switch/readme.md) · [Uploader](./components/Inputs/uploader/readme.md) |
+| **Layout & Surfaces** | [Avatar](./components/Layout/avatar/readme.md) · [Card](./components/Layout/card/readme.md) · [Code View](./components/Layout/code-view/readme.md) · [Dialog](./components/Layout/dialog/readme.md) · [Not Found](./components/Layout/not-found/readme.md) · [Sidebar](./components/Layout/sidebar/readme.md) · [Table](./components/Layout/table/readme.md) · [Tooltip](./components/Layout/tooltip/readme.md) |
+| **Navigation** | [Accordion](./components/Navigation/accordion/readme.md) · [Breadcrumb](./components/Navigation/breadcrumb/readme.md) · [Carousel](./components/Navigation/carousel/readme.md) · [Context Menu](./components/Navigation/context-menu/readme.md) · [Nav Bar](./components/Navigation/nav-bar/readme.md) · [Pagination](./components/Navigation/pagination/readme.md) · [Stepper](./components/Navigation/stepper/readme.md) · [Tab](./components/Navigation/tab/readme.md) · [Toolbar](./components/Navigation/toolbar/readme.md) · [Top Nav Bar](./components/Navigation/top-nav-bar/readme.md) · [Tree View](./components/Navigation/tree-view/readme.md) |
+| **Notifications & Feedback** | [Badge](./components/Notification/badge/readme.md) · [Loader](./components/Notification/loader/readme.md) · [Message](./components/Notification/message/readme.md) · [Progress](./components/Notification/progress/readme.md) · [Spinner](./components/Notification/spinner/readme.md) · [Toast](./components/Notification/toast/readme.md) |
+| **Utilities & Services** | [ToastStore](./utils/toast-store.md) |
 
-### Calendars
-
-- [Date Picker](./components/Calendars/datepicker/readme.md)
-- [Date Range](./components/Calendars/daterange/readme.md)
-- [Time Picker](./components/Calendars/timepicker/readme.md)
-
-### Dropdowns
-
-- [Dropdown](./components/Dropdowns/dropdown/readme.md)
-- [Listbox](./components/Dropdowns/listbox/readme.md)
-
-### Inputs
-
-- [Checkbox](./components/Inputs/checkbox/readme.md)
-- [Colour Picker](./components/Inputs/colour-picker/readme.md)
-- [Input](./components/Inputs/input/readme.md)
-- [OTP Input](./components/Inputs/otp-input/readme.md)
-- [Radio](./components/Inputs/radio/readme.md)
-- [Rating](./components/Inputs/rating/readme.md)
-- [Slider](./components/Inputs/slider/readme.md)
-- [Switch](./components/Inputs/switch/readme.md)
-- [Textarea](./components/Inputs/textarea/readme.md)
-- [Theme Switch](./components/Inputs/theme-switch/readme.md)
-- [Uploader](./components/Inputs/uploader/readme.md)
-
-### Layout
-
-- [Avatar](./components/Layout/avatar/readme.md)
-- [Card](./components/Layout/card/readme.md)
-- [Code View](./components/Layout/code-view/readme.md)
-- [Dialog](./components/Layout/dialog/readme.md)
-- [Not Found](./components/Layout/not-found/readme.md)
-- [Sidebar](./components/Layout/sidebar/readme.md)
-- [Table](./components/Layout/table/readme.md)
-- [Tooltip](./components/Layout/tooltip/readme.md)
-
-### Navigation
-
-- [Accordion](./components/Navigation/accordion/readme.md)
-- [Breadcrumb](./components/Navigation/breadcrumb/readme.md)
-- [Carousel](./components/Navigation/carousel/readme.md)
-- [Context Menu](./components/Navigation/context-menu/readme.md)
-- [Nav Bar](./components/Navigation/nav-bar/readme.md)
-- [Pagination](./components/Navigation/pagination/readme.md)
-- [Stepper](./components/Navigation/stepper/readme.md)
-- [Tab](./components/Navigation/tab/readme.md)
-- [Toolbar](./components/Navigation/toolbar/readme.md)
-- [Top Nav Bar](./components/Navigation/top-nav-bar/readme.md)
-- [Tree View](./components/Navigation/tree-view/readme.md)
-
-### Notifications
-
-- [Badge](./components/Notification/badge/readme.md)
-- [Loader](./components/Notification/loader/readme.md)
-- [Message](./components/Notification/message/readme.md)
-- [Progress](./components/Notification/progress/readme.md)
-- [Spinner](./components/Notification/spinner/readme.md)
-- [Toast](./components/Notification/toast/readme.md)
-
-### services 
-
-- [ToastStore](./utils/toast-store.md)
+**Framework support:** Angular · React
 
 ---
 
