@@ -18,6 +18,22 @@ npm i @kraft.stitch/react
 
 ---
 
+## Depends on
+
+KS-UI need this import for working.
+
+```html
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@kraft.stitch/basspack/css-pack.min.css"
+/>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@kraft.stitch/themepack/theme-pack.min.css"
+/>
+```
+
+
 ## Components
 
 ### Buttons
@@ -37,14 +53,6 @@ npm i @kraft.stitch/react
 
 - [Dropdown](./components/Dropdowns/dropdown/readme.md)
 - [Listbox](./components/Dropdowns/listbox/readme.md)
-
-### Global Utilities
-
-- [Ks Field](./components/glob/ks-field/readme.md)
-- [Ks Icon](./components/glob/ks-icon/readme.md)
-- [Ks Overlay Field](./components/glob/ks-overlay-field/readme.md)
-- [Ks Search](./components/glob/ks-search/readme.md)
-- [Ks Slots](./components/glob/ks-slots/readme.md)
 
 ### Inputs
 
