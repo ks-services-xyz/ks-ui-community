@@ -22,77 +22,81 @@ npm i @kraft.stitch/react
 
 ### Buttons
 
-- [Button](./components/Buttons/button/README.md)
-- [Button Group](./components/Buttons/button-group/README.md)
-- [Chips](./components/Buttons/chips/README.md)
-- [FAB](./components/Buttons/fab/README.md)
+- [Button](./components/Buttons/button/readme.md)
+- [Button Group](./components/Buttons/button-group/readme.md)
+- [Chips](./components/Buttons/chips/readme.md)
+- [FAB](./components/Buttons/fab/readme.md)
 
 ### Calendars
 
-- [Date Picker](./components/Calendars/datepicker/README.md)
-- [Date Range](./components/Calendars/daterange/README.md)
-- [Time Picker](./components/Calendars/timepicker/README.md)
+- [Date Picker](./components/Calendars/datepicker/readme.md)
+- [Date Range](./components/Calendars/daterange/readme.md)
+- [Time Picker](./components/Calendars/timepicker/readme.md)
 
 ### Dropdowns
 
-- [Dropdown](./components/Dropdowns/dropdown/README.md)
-- [Listbox](./components/Dropdowns/listbox/README.md)
+- [Dropdown](./components/Dropdowns/dropdown/readme.md)
+- [Listbox](./components/Dropdowns/listbox/readme.md)
 
 ### Global Utilities
 
-- [Ks Field](./components/glob/ks-field/README.md)
-- [Ks Icon](./components/glob/ks-icon/README.md)
-- [Ks Overlay Field](./components/glob/ks-overlay-field/README.md)
-- [Ks Search](./components/glob/ks-search/README.md)
-- [Ks Slots](./components/glob/ks-slots/README.md)
+- [Ks Field](./components/glob/ks-field/readme.md)
+- [Ks Icon](./components/glob/ks-icon/readme.md)
+- [Ks Overlay Field](./components/glob/ks-overlay-field/readme.md)
+- [Ks Search](./components/glob/ks-search/readme.md)
+- [Ks Slots](./components/glob/ks-slots/readme.md)
 
 ### Inputs
 
-- [Checkbox](./components/Inputs/checkbox/README.md)
-- [Colour Picker](./components/Inputs/colour-picker/README.md)
-- [Input](./components/Inputs/input/README.md)
-- [OTP Input](./components/Inputs/otp-input/README.md)
-- [Radio](./components/Inputs/radio/README.md)
-- [Rating](./components/Inputs/rating/README.md)
-- [Slider](./components/Inputs/slider/README.md)
-- [Switch](./components/Inputs/switch/README.md)
-- [Textarea](./components/Inputs/textarea/README.md)
-- [Theme Switch](./components/Inputs/theme-switch/README.md)
-- [Uploader](./components/Inputs/uploader/README.md)
+- [Checkbox](./components/Inputs/checkbox/readme.md)
+- [Colour Picker](./components/Inputs/colour-picker/readme.md)
+- [Input](./components/Inputs/input/readme.md)
+- [OTP Input](./components/Inputs/otp-input/readme.md)
+- [Radio](./components/Inputs/radio/readme.md)
+- [Rating](./components/Inputs/rating/readme.md)
+- [Slider](./components/Inputs/slider/readme.md)
+- [Switch](./components/Inputs/switch/readme.md)
+- [Textarea](./components/Inputs/textarea/readme.md)
+- [Theme Switch](./components/Inputs/theme-switch/readme.md)
+- [Uploader](./components/Inputs/uploader/readme.md)
 
 ### Layout
 
-- [Avatar](./components/Layout/avatar/README.md)
-- [Card](./components/Layout/card/README.md)
-- [Code View](./components/Layout/code-view/README.md)
-- [Dialog](./components/Layout/dialog/README.md)
-- [Not Found](./components/Layout/not-found/README.md)
-- [Sidebar](./components/Layout/sidebar/README.md)
-- [Table](./components/Layout/table/README.md)
-- [Tooltip](./components/Layout/tooltip/README.md)
+- [Avatar](./components/Layout/avatar/readme.md)
+- [Card](./components/Layout/card/readme.md)
+- [Code View](./components/Layout/code-view/readme.md)
+- [Dialog](./components/Layout/dialog/readme.md)
+- [Not Found](./components/Layout/not-found/readme.md)
+- [Sidebar](./components/Layout/sidebar/readme.md)
+- [Table](./components/Layout/table/readme.md)
+- [Tooltip](./components/Layout/tooltip/readme.md)
 
 ### Navigation
 
-- [Accordion](./components/Navigation/accordion/README.md)
-- [Breadcrumb](./components/Navigation/breadcrumb/README.md)
-- [Carousel](./components/Navigation/carousel/README.md)
-- [Context Menu](./components/Navigation/context-menu/README.md)
-- [Nav Bar](./components/Navigation/nav-bar/README.md)
-- [Pagination](./components/Navigation/pagination/README.md)
-- [Stepper](./components/Navigation/stepper/README.md)
-- [Tab](./components/Navigation/tab/README.md)
-- [Toolbar](./components/Navigation/toolbar/README.md)
-- [Top Nav Bar](./components/Navigation/top-nav-bar/README.md)
-- [Tree View](./components/Navigation/tree-view/README.md)
+- [Accordion](./components/Navigation/accordion/readme.md)
+- [Breadcrumb](./components/Navigation/breadcrumb/readme.md)
+- [Carousel](./components/Navigation/carousel/readme.md)
+- [Context Menu](./components/Navigation/context-menu/readme.md)
+- [Nav Bar](./components/Navigation/nav-bar/readme.md)
+- [Pagination](./components/Navigation/pagination/readme.md)
+- [Stepper](./components/Navigation/stepper/readme.md)
+- [Tab](./components/Navigation/tab/readme.md)
+- [Toolbar](./components/Navigation/toolbar/readme.md)
+- [Top Nav Bar](./components/Navigation/top-nav-bar/readme.md)
+- [Tree View](./components/Navigation/tree-view/readme.md)
 
 ### Notifications
 
-- [Badge](./components/Notification/badge/README.md)
-- [Loader](./components/Notification/loader/README.md)
-- [Message](./components/Notification/message/README.md)
-- [Progress](./components/Notification/progress/README.md)
-- [Spinner](./components/Notification/spinner/README.md)
-- [Toast](./components/Notification/toast/README.md)
+- [Badge](./components/Notification/badge/readme.md)
+- [Loader](./components/Notification/loader/readme.md)
+- [Message](./components/Notification/message/readme.md)
+- [Progress](./components/Notification/progress/readme.md)
+- [Spinner](./components/Notification/spinner/readme.md)
+- [Toast](./components/Notification/toast/readme.md)
+
+### services 
+
+- [ToastStore](./utils/toast-store.md)
 
 ---
 
